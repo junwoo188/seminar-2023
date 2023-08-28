@@ -130,7 +130,7 @@
 |  김민성         |  kms2786210@naver.com                 |      react      |      android      |      spring      |
 |   최재열        |   andrew04247@gmail.com                |    Spring     |   Django   |  React  |
 |  김상래         |    popatry@snu.ac.kr               | iOS           |  react          |  django          |
-|  최준우         |    junwoo682@snu.ac.kr               |            |            |            |
+|  최준우         |    junwoo682@snu.ac.kr               |  android   |   react     |     spring   |
 | 이민제          |    dlalswp25@naver.com               |            |            |            |
 |  김지현         |    brownie1465@snu.ac.kr               |django            |spring            |react            |
 |  김정윤         |   kjeongyoon0206@gmail.com                |   django   |   react   |   android   |
